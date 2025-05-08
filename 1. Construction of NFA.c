@@ -32,3 +32,5 @@ int main() {
             return 0;}
     printf("\nSTRING NOT ACCEPTED\n");
     return 0;} 
+
+output string:abc
