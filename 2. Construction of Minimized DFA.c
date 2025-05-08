@@ -40,3 +40,11 @@ int main() {
                 break;}}
         printf("\nSTRING %s\n", flag ? "ACCEPTED" : "NOT ACCEPTED");    }
     return 0;}
+
+//dfa.txt{create file}
+//1 2
+// 1
+//0-1 -1
+//#
+//0
+//2
